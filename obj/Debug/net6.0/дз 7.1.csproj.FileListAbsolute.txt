@@ -1,0 +1,15 @@
+/Users/aleksandrmaskin/Desktop/дз 7.1/bin/Debug/net6.0/дз 7.1
+/Users/aleksandrmaskin/Desktop/дз 7.1/bin/Debug/net6.0/дз 7.1.deps.json
+/Users/aleksandrmaskin/Desktop/дз 7.1/bin/Debug/net6.0/дз 7.1.runtimeconfig.json
+/Users/aleksandrmaskin/Desktop/дз 7.1/bin/Debug/net6.0/дз 7.1.dll
+/Users/aleksandrmaskin/Desktop/дз 7.1/bin/Debug/net6.0/дз 7.1.pdb
+/Users/aleksandrmaskin/Desktop/дз 7.1/obj/Debug/net6.0/дз 7.1.csproj.AssemblyReference.cache
+/Users/aleksandrmaskin/Desktop/дз 7.1/obj/Debug/net6.0/дз 7.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrmaskin/Desktop/дз 7.1/obj/Debug/net6.0/дз 7.1.AssemblyInfoInputs.cache
+/Users/aleksandrmaskin/Desktop/дз 7.1/obj/Debug/net6.0/дз 7.1.AssemblyInfo.cs
+/Users/aleksandrmaskin/Desktop/дз 7.1/obj/Debug/net6.0/дз 7.1.csproj.CoreCompileInputs.cache
+/Users/aleksandrmaskin/Desktop/дз 7.1/obj/Debug/net6.0/дз 7.1.dll
+/Users/aleksandrmaskin/Desktop/дз 7.1/obj/Debug/net6.0/refint/дз 7.1.dll
+/Users/aleksandrmaskin/Desktop/дз 7.1/obj/Debug/net6.0/дз 7.1.pdb
+/Users/aleksandrmaskin/Desktop/дз 7.1/obj/Debug/net6.0/дз 7.1.genruntimeconfig.cache
+/Users/aleksandrmaskin/Desktop/дз 7.1/obj/Debug/net6.0/ref/дз 7.1.dll
